@@ -5,13 +5,6 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![GitHub contributors](https://img.shields.io/github/contributors/olliegardner/seminar-roulette.svg)](https://github.com/olliegardner/seminar-roulette/graphs/contributors/)
 
-## Background
-
-Academics at the University of Glasgow are typically time-poor and do not have time to trawl through lists of research seminars to find one that they haven't attended before and is of interest to them. The Unveristy of Glasgow currently presents various methods of discovering events taking place at the University.
-
-Seminar Roulette is an event recommendation platform for the University of Glasgow academic community. It aims to become the University's central source for seminar management and organisation. The web application contains a recommender system that suggests seminars to users based on how they have rated past events. Furthermore, it pulls in data from various University seminar sources, such as, [Samoa Events](https://samoa.dcs.gla.ac.uk/events/) and [Eventbrite](https://www.eventbrite.co.uk/).
-
-The system was developed by Ollie Gardner as his 4th year individual project for a BSc Software Engineering degree. The project was supvervised by [Dr Jeremy Singer](http://www.dcs.gla.ac.uk/~jsinger/).
 
 ## Requirements
 
@@ -67,4 +60,3 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) file for 
 
 ---
 
-Ollie Gardner
